@@ -18,6 +18,6 @@
 
 ### 📊 Estatísticas do GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-thiagocosta&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-thiagocosta&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150" />
+  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=dev-thiagocosta&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=dev-thiagocosta&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150" />
 </p>
